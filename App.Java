@@ -1,6 +1,6 @@
 public class App{
   public static void main(String[] args){
-    print("Hello World!")
+    print("Hello World!");
   }
   
   public class print(String print){
